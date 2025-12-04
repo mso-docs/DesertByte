@@ -1,6 +1,6 @@
 # 🎮 Amiga Demoscene - Desert Byte
 
-[PLAY THE DEMO]([link](https://mso-docs.github.io/DesertByte/))
+[PLAY THE DEMO](https://mso-docs.github.io/DesertByte/)
 
 An authentic 1980s/1990s Commodore Amiga demoscene tribute built with pure JavaScript. Experience classic demo effects with old-school computer graphics and desert-byte.mp3 soundtrack.
 
